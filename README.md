@@ -52,6 +52,6 @@ network-manager-applet starship
 ```
 
 AUR Packages (Optional)
-``bash
+```bash
 yay -S swaylock-effects wlogout
 ```
