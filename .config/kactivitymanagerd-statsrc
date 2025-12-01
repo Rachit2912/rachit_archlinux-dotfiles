@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-3c64ff3e-2a37-4bfd-9a8f-a975d9cfdb50]
+ordering=applications:org.kde.discover.desktop,applications:systemsettings.desktop,preferred://browser
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=applications:org.kde.discover.desktop,applications:systemsettings.desktop,preferred://browser

@@ -1,0 +1,74 @@
+[
+    {
+        "key": "general:gaps_in",
+        "value": 4.0
+    },
+    {
+        "key": "general:gaps_out",
+        "value": 7.0
+    },
+    {
+        "key": "general:gaps_workspaces",
+        "value": 5
+    },
+    {
+        "key": "general:resize_on_border",
+        "value": "true"
+    },
+    {
+        "key": "general:snap:enabled",
+        "value": "false"
+    },
+    {
+        "key": "input:numlock_by_default",
+        "value": "true"
+    },
+    {
+        "key": "input:natural_scroll",
+        "value": "true"
+    },
+    {
+        "key": "input:touchpad:natural_scroll",
+        "value": "true"
+    },
+    {
+        "key": "input:touchpad:clickfinger_behavior",
+        "value": "false"
+    },
+    {
+        "key": "input:touchpad:middle_button_emulation",
+        "value": "true"
+    },
+    {
+        "key": "input:touchpad:tap-to-click",
+        "value": "true"
+    },
+    {
+        "key": "input:touchpad:scroll_factor",
+        "value": 1.0
+    },
+    {
+        "key": "gestures:workspace_swipe_distance",
+        "value": 300
+    },
+    {
+        "key": "gestures:workspace_swipe_touch",
+        "value": "true"
+    },
+    {
+        "key": "gestures:workspace_swipe_invert",
+        "value": "true"
+    },
+    {
+        "key": "gestures:workspace_swipe_create_new",
+        "value": "true"
+    },
+    {
+        "key": "misc:disable_hyprland_logo",
+        "value": "true"
+    },
+    {
+        "key": "decoration:inactive_opacity",
+        "value": 0.77
+    }
+]
